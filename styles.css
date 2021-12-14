@@ -1,0 +1,9 @@
+/* Global CSS rules for the website */
+
+body {
+  background-color: rgb(244, 227, 183);
+}
+
+h1 {
+  border: 2px solid;
+}
